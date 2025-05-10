@@ -15,8 +15,8 @@ A simple and fun implementation of the classic **Snake and Ladders** board game.
 
 > Update this section according to your code.
 
-- Python 3 (or JavaScript, Java, etc.)
-- Basic CLI (or Tkinter / Pygame / HTML+CSS+JS for GUI)
+- Python 3 
+- Basic CLI (for GUI)
 
 ## 🚀 Getting Started
 
